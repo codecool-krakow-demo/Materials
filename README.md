@@ -19,4 +19,6 @@ This chapter contains four assignments, from the easiest one to the most challen
 
 ## 4. I want more!
 
-If you want more challanges we suggest creating an account on CodeWars web site and try to solve their riddles!  
+If you want more challanges we suggest creating an account on CodeWars web site and try to solve their riddles!
+
+  
