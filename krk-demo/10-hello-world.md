@@ -19,7 +19,7 @@ By importing the sys module, you can access all the given arguments as a list. R
 
 ## Expected Console Output
 
-![hello_world.png](media/hello_world.png)
+![hello_world.png](media/hello_world.PNG)
 
 
 

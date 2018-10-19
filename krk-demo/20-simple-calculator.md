@@ -12,7 +12,7 @@ Submit your python script file.
 
 (Your output can differ, but the key concept must remain)
 
-![simple_calculator.png](media/simple_calculator.png)
+![simple_calculator.png](media/simple_calculator.PNG)
 
 
 

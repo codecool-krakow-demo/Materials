@@ -11,7 +11,7 @@ Here you can take a look at the flowchart of a possible solution:
 
 ### Expected Console Output
 
-![fibonacci_output_1.png](/media/fibonacci_output_1.png)
+![fibonacci_output_1.png](/media/fibonacci_output_1.PNG)
 
 
 
@@ -20,5 +20,5 @@ Here you can take a look at the flowchart of a possible solution:
   1. Add an input that asks how many numbers the User wants to print out.
   2. Use a dynamic number of spaces between the sequence id (first, second, etc..) and the value, to place the values into one column:
   
-  ![fibonacci_output_2.png](/media/fibonacci_output_2.png)
+  ![fibonacci_output_2.png](/media/fibonacci_output_2.PNG)
 

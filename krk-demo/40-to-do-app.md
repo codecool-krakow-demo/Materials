@@ -19,7 +19,7 @@ With your group, write an application in Python that keeps your to-dos in one pl
 
 ### Expected Console Output
 
-![to_do_app.png](media\to_do_app.png)
+![to_do_app.png](/media/to_do_app.PNG)
 
 
 
