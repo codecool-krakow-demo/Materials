@@ -1,7 +1,7 @@
 window.$docsify = {
   name: '',
   repo: '',
-  loadSidebar: "./sidebar.md",
+  loadSidebar: "sidebar.md",
   maxLevel: 0,
   subMaxLevel: 0,
   auto2top: true,
