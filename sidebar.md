@@ -1,4 +1,4 @@
-* [Codecool DEMO Curriculum](readme.md)
+* [Codecool DEMO Curriculum](README.md)
 
 
 * First steps with Python
